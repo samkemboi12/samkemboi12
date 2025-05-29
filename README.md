@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Samwel Kipkemboi
 
-<!--
-**samkemboi12/samkemboi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a data science and AI learner passionate about turning data into insights and impact.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, SQL, Pandas, scikit-learn
+- Data Analysis, Machine Learning
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Aviation Risk Analysis
+- Movie Success Predictor
+
