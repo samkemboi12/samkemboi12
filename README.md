@@ -14,7 +14,7 @@
 ### About
 I am a highly resourceful data scientist skilled in Python, SQL, data analysis, and machine learning, with a strong focus on turning data into actionable insights. I have worked on  impactful projects applying frameworks like CRISP-DM to deliver results.I am Passionate about problem-solving and continuous learning. Currently open to fulltime or part-time roles either remote or on-site where I can apply my analytical mindset to help businesses make smarter, data-driven decisions.
 ## Tech Stack
-- Python, SQL, Pandas, scikit-learn,  Matplotlib, Seaborn
+- Python, SQL, Pandas, scikit-learn,  Matplotlib, Seaborn, tableau
 - Machine Learning, Power BI, Excel
 - Git & GitHub,  Jupyter Notebook, VS Code, Google Colab
 ## Skills                                                                                                
@@ -23,5 +23,27 @@ I am a highly resourceful data scientist skilled in Python, SQL, data analysis, 
 * **Data Engineering**
 * **Data Scraping**
 * **Competencies and Transferable Skills**
+
+## Some Featured Projects
+Below are some but a few projects ;
+
+###  [Health Insurance Cross-Sell Prediction](https://github.com/samkemboi12/Insurance-Cross-Sell-Prediction)
+A machine learning model that predicts which customers are likely to buy additional insurance products.  
+**Tech Stack**: Python, Pandas, Scikit-learn, XGBoost, Tableau
+**Highlights**: Exploratory Data Analysis, Model Evaluation, Feature Engineering
+
+---
+### [Box Office Movie Success Predictor](https://github.com/samkemboi12/Box-Office-Analysis)
+This project offers data-driven insights to help Microsoft launch a movie studio by identifying the most successful film types and genres based on ratings and box office returns. 
+**Tech Stack**: Python, Pandas, Seaborn, Linear Regression  
+**Highlights** : Data-Driven Decision Making, Business Insights
+---
+
+###  [Aviation Risk Analysis](https://github.com/samkemboi12/Aviation-Risk-Project)
+Analyzed 88,000+ aviation records to identify accident risk factors and recommend safer aircraft for purchase.  
+**Tech Stack**: Python, Pandas, Matplotlib, Seaborn  
+**Highlights**: Data Cleaning, Visualization, Data, analysis
+
+---
 
 
