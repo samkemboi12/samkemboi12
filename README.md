@@ -50,3 +50,17 @@ Welcome to my GitHub profile! I'm a data science and AI learner passionate about
 
 ![header](./header.gif)
 
+<div align="center" style="background-color:#FFE600;padding:40px 10px;">
+  <h1>Hello, I'm Samwel!</h1>
+  <h3>Data Scientist, AI & ML Enthusiast 🧠</h3>
+  <p><b>Python | SQL | Machine Learning | Insurance Risk</b></p>
+  
+  <p>
+    <a href="mailto:samwel@email.com"><img src="https://img.icons8.com/ios-filled/30/000000/email.png"/></a>
+    <a href="https://github.com/samwelkipkemboi"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/></a>
+    <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png"/></a>
+    <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/></a>
+  </p>
+</div>
+
+
