@@ -1,13 +1,5 @@
-#  Hi, I'm Samwel Kipkemboi
-<!-- header -->
-<img src="header.gif" width="100%" alt="Welcome Banner" />
+![WhatsApp Image 2025-06-11 at 18 00 16_7ee61d8c](https://github.com/user-attachments/assets/b0a6df3c-10c1-4969-a495-e99888eefa1a)
 
-
-**NodeJS | React | DevOps**
-![WhatsApp Image 2025-06-11 at 16 23 27_5a86cbb5](https://github.com/user-attachments/assets/c4657101-62c8-4bb1-b4fc-f4f336c10c52)
-
-
----
 
 
 
