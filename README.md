@@ -63,4 +63,8 @@ Welcome to my GitHub profile! I'm a data science and AI learner passionate about
   </p>
 </div>
 
+<p align="center">
+  <img src="./header.gif" alt="Samwel Kipkemboi Banner" />
+</p>
+
 
