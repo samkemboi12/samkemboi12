@@ -13,12 +13,20 @@
 
 ### About
 I am a highly resourceful data scientist skilled in Python, SQL, data analysis, and machine learning, with a strong focus on turning data into actionable insights. I have worked on  impactful projects applying frameworks like CRISP-DM to deliver results.I am Passionate about problem-solving and continuous learning. Currently open to fulltime or part-time roles either remote or on-site where I can apply my analytical mindset to help businesses make smarter, data-driven decisions.
-##
+## Tech Stack
 - Python, SQL, Pandas, scikit-learn
 - Data Analysis, Machine Learning
 - Git & GitHub
-
-## 🚀 Projects
+## Tech Stack
+**Languages & Libraries**
+Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+**Data Analysis & Visualization**
+Power BI, Jupyter Notebook, Excel, Matplotlib, Seaborn
+**Machine Learning**
+Scikit-learn, XGBoost, Regression & Classification Models, Model Evaluation
+**Tools & Platforms**
+Git, GitHub, Jupyter Notebook, VS Code, Google Colab
+## Projects
 - Aviation Risk Analysis
 - Movie Success Predictor
 <h1 align="center">Hello, I'm Samwel!</h1>
