@@ -26,4 +26,27 @@ Welcome to my GitHub profile! I'm a data science and AI learner passionate about
 ## 🚀 Projects
 - Aviation Risk Analysis
 - Movie Success Predictor
+<h1 align="center">Hello, I'm Samwel!</h1>
+<h3 align="center">Data Scientist | AI Enthusiast | Dev Advocate 🧠</h3>
+
+<p align="center">
+  <b>Python | SQL | Machine Learning | Data Analytics</b>
+</p>
+
+<p align="center">
+  <a href="mailto:your@email.com"><img src="https://img.icons8.com/ios-filled/50/000000/email.png" height="30"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" height="30"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png" height="30"/></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" height="30"/></a>
+  <a href="https://dev.to/yourname"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" /></a>
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on `Risk & Fairness in Insurance Pricing`
+- 🌱 I’m learning AI and Statistics
+- 💬 Ask me about anything data or AI!
+
+![header](./header.gif)
 
