@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile
 
 ![WhatsApp Image 2025-06-11 at 18 00 16_7ee61d8c](https://github.com/user-attachments/assets/b0a6df3c-10c1-4969-a495-e99888eefa1a)
-
+                                                       (Open for Opportunities)
 ### Contact Info
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](sam12@gmail.com)
@@ -35,8 +35,8 @@ A machine learning model that predicts which customers are likely to buy additio
 
 ### [Box Office Movie Success Predictor](https://github.com/samkemboi12/Box-Office-Analysis)
 
- This project offers data-driven insights to help Microsoft launch a movie studio by identifying the most successful film types and genres based on ratings and box office returns. 
-**Tech Stack**: Python, Pandas, Seaborn, Linear Regression                                                                                                                                                  
+ This project offers data-driven insights to help Microsoft launch a movie studio by identifying the most successful film types and genres based on ratings and box office returns.                               
+**Tech Stack**: Python, Pandas, Seaborn, Linear Regression                                                                                                                                                                                                                                                                                              
 **Highlights** : Data-Driven Decision Making, Business Insights                                                                                                                                           
 
 ###  [Aviation Risk Analysis](https://github.com/samkemboi12/Aviation-Risk-Project)
