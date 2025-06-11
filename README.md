@@ -4,10 +4,11 @@
 
 
 **NodeJS | React | DevOps**
+![WhatsApp Image 2025-06-11 at 16 23 27_5a86cbb5](https://github.com/user-attachments/assets/c4657101-62c8-4bb1-b4fc-f4f336c10c52)
+
 
 ---
 
-###  Connect with me:![header](https://github.com/user-attachments/assets/3482608a-cd82-4665-a979-22e5a97c2ef6)
 
 
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](sam12@gmail.com)
