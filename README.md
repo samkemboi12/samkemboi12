@@ -28,20 +28,19 @@ I am a highly resourceful data scientist skilled in Python, SQL, data analysis, 
 Below are some but a few projects ;
 
 ###  [Health Insurance Cross-Sell Prediction](https://github.com/samkemboi12/Insurance-Cross-Sell-Prediction)
-A machine learning model that predicts which customers are likely to buy additional insurance products.  
-**Tech Stack**: Python, Pandas, Scikit-learn, XGBoost, Tableau
-**Highlights**: Exploratory Data Analysis, Model Evaluation, Feature Engineering
+A machine learning model that predicts which customers are likely to buy additional insurance products.                                                                                                         
+**Tech Stack**: Python, Pandas, Scikit-learn, XGBoost, Tableau                                                                                                                                                       
+**Highlights**: Exploratory Data Analysis, Model Evaluation, Feature Engineering                                                                                                                               
 
----
+
 ### [Box Office Movie Success Predictor](https://github.com/samkemboi12/Box-Office-Analysis)
 
  This project offers data-driven insights to help Microsoft launch a movie studio by identifying the most successful film types and genres based on ratings and box office returns. 
 **Tech Stack**: Python, Pandas, Seaborn, Linear Regression  
 **Highlights** : Data-Driven Decision Making, Business Insights
----
 
 ###  [Aviation Risk Analysis](https://github.com/samkemboi12/Aviation-Risk-Project)
-Analyzed 88,000+ aviation records to identify accident risk factors and recommend safer aircraft for purchase.  
+Analyzed 88,000 + aviation records to identify accident risk factors and recommend safer aircraft for purchase.  
 **Tech Stack**: Python, Pandas, Matplotlib, Seaborn  
 **Highlights**: Data Cleaning, Visualization, Data, analysis
 
