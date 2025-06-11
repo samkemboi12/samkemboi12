@@ -7,7 +7,8 @@
 
 ---
 
-###  Connect with me:
+###  Connect with me:![header](https://github.com/user-attachments/assets/3482608a-cd82-4665-a979-22e5a97c2ef6)
+
 
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](sam12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/samkemboi12/samkemboi12)
@@ -63,6 +64,9 @@ Welcome to my GitHub profile! I'm a data science and AI learner passionate about
   </p>
 </div>
 
+<p align="center">
+  <img src="./header.gif" alt="Samwel Kipkemboi Banner" />
+</p>
 <p align="center">
   <img src="./header.gif" alt="Samwel Kipkemboi Banner" />
 </p>
