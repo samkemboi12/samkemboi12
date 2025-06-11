@@ -18,14 +18,14 @@ I am a highly resourceful data scientist skilled in Python, SQL, data analysis, 
 - Data Analysis, Machine Learning
 - Git & GitHub
 ## Tech Stack
-**Languages & Libraries**
-Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-**Data Analysis & Visualization**
-Power BI, Jupyter Notebook, Excel, Matplotlib, Seaborn
+**Languages & Libraries**                                                                                                                                                                                  
+* Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn                                                                                                                                           
+**Data Analysis & Visualization**                                                                                                                                                                              
+* Power BI, Jupyter Notebook, Excel, Matplotlib, Seaborn                                                                             
 **Machine Learning**
-Scikit-learn, XGBoost, Regression & Classification Models, Model Evaluation
+* Scikit-learn, XGBoost, Regression & Classification Models, Model Evaluation
 **Tools & Platforms**
-Git, GitHub, Jupyter Notebook, VS Code, Google Colab
+* Git, GitHub, Jupyter Notebook, VS Code, Google Colab
 ## Projects
 - Aviation Risk Analysis
 - Movie Success Predictor
