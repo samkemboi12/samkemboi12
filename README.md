@@ -2,7 +2,7 @@
 
 ![WhatsApp Image 2025-06-11 at 18 00 16_7ee61d8c](https://github.com/user-attachments/assets/b0a6df3c-10c1-4969-a495-e99888eefa1a)
                                                        (Open for Opportunities)
-### Contact Info
+## Contact Info
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](sam12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/samkemboi12/samkemboi12)
@@ -11,10 +11,10 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@yourhandle)
 
 
-### Profession Summary
+## Profession Summary
 I am a highly resourceful Data Scientist with a strong foundation in data analysis, machine learning, end-to-end model development and cloud technologies. Skilled in transforming raw data into actionable insights that support strategic decision-making. I also excel in FInance Analysis and interpreting financial statements, conducting credit and risk analysis, and communicating complex analytical findings to both technical and finance stakeholders. Committed to delivering accurate, ethical, and high-impact data solutions that drive business growth. Strong team player with excellent collaboration, coordination, and stakeholder-engagement skills, able to work seamlessly across functions to deliver aligned, data-driven results. Currently open to fulltime or part-time roles either remote or on-site where I can apply my analytical mindset to help businesses make smarter, data-driven decisions.
 
-### Skills                                                                                                
+## Skills                                                                                                
 * **Data Analysis and Visualization**                                                                                                                                                                        
 * **Machine Learning and AI development**
 * **Programming and Development**
@@ -24,7 +24,7 @@ I am a highly resourceful Data Scientist with a strong foundation in data analys
 * **Finance and Risk Analysis:**
 * **Databases and SQL**
 * **Competencies and Transferable Skills**
-### Tools and Technologies
+## Tools and Technologies
 * **Programming & Scripting:** Python, SQL
 * **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI, Tableau
 * **Machine Learning & AI**: scikit-learn, TensorFlow, Keras, XGBoost, LightGBM
@@ -33,7 +33,7 @@ I am a highly resourceful Data Scientist with a strong foundation in data analys
 * **Version Control & Collaboration:** Git, GitHub
 * Jupyter Notebooks, VS Code, Docker (if applicable), ETL tools
 
-### Featured Projects
+## Featured Projects
 Below are some but a few projects ;
 ### [AI-Medical ChatBot](https://github.com/samkemboi12/Medical-AI-ChatBot)
 This project develops an AI-powered chatbot that provides intelligent conversational guidance for patients seeking medical support, covering both emergency and general healthcare queries. It helps users locate the nearest hospitals in real time and provides reliable details about each hospital, including contact information. Additionally, the chatbot can generate Google Maps directions to guide users directly to the selected hospital.<br>Check out the **live demo** by clicking the project title above
