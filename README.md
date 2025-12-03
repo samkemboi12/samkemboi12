@@ -11,17 +11,18 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@yourhandle)
 
 
-### About
-I am a highly resourceful data scientist skilled in Python, SQL, data analysis, and machine learning, with a strong focus on turning data into actionable insights. I have worked on  impactful projects applying frameworks like CRISP-DM to deliver results.I am Passionate about problem-solving and continuous learning. Currently open to fulltime or part-time roles either remote or on-site where I can apply my analytical mindset to help businesses make smarter, data-driven decisions.
-## Tech Stack
-- Python, SQL, Pandas, scikit-learn,  Matplotlib, Seaborn, tableau
-- Machine Learning, Power BI, Excel
-- Git & GitHub,  Jupyter Notebook, VS Code, Google Colab
+### Profession Summary
+I am a highly resourceful Data Scientist with a strong foundation in data analysis, machine learning, end-to-end model development and cloud technologies. Skilled in transforming raw data into actionable insights that support strategic decision-making. I also excel in FInance Analysis and interpreting financial statements, conducting credit and risk analysis, and communicating complex analytical findings to both technical and finance stakeholders. Committed to delivering accurate, ethical, and high-impact data solutions that drive business growth. Strong team player with excellent collaboration, coordination, and stakeholder-engagement skills, able to work seamlessly across functions to deliver aligned, data-driven results. Currently open to fulltime or part-time roles either remote or on-site where I can apply my analytical mindset to help businesses make smarter, data-driven decisions.
+
 ## Skills                                                                                                
-* **Data Analysis & Visualization**                                                                                                                                                                              
-* **Machine Learning Engineer**
+* **Data Analysis and Visualization**                                                                                                                                                                        
+* **Machine Learning and AI development**
+* **Programming and Development**
 * **Data Engineering**
 * **Data Scraping**
+* **Cloud and Big Data**
+* **Finance and Risk Analysis:**
+* **Databases and SQL**
 * **Competencies and Transferable Skills**
 
 ## Some Featured Projects
