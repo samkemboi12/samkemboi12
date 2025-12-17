@@ -35,6 +35,8 @@ I am a highly resourceful Data Scientist with a strong foundation in data analys
 
 ## Featured Projects
 Below are some but a few projects ;
+### [Business Sales Analysis with SQL and its DashBoard](https://github.com/samkemboi12/Multi-Branch-Sales-Data-with-MySQL)
+This project performs a comprehensive analysis of multi-branch retail (12 branches for a Pizza Business) sales data using MySQL to uncover actionable business insights and support data-driven decision-making.
 ### [AI-Medical ChatBot](https://github.com/samkemboi12/Medical-AI-ChatBot)
 This project develops an AI-powered chatbot that provides intelligent conversational guidance for patients seeking medical support, covering both emergency and general healthcare queries. It helps users locate the nearest hospitals in real time and provides reliable details about each hospital, including contact information. Additionally, the chatbot can generate Google Maps directions to guide users directly to the selected hospital.<br>Check out the **live demo** by clicking the project title above
 
