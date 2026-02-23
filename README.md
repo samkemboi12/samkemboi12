@@ -14,6 +14,98 @@
 ## Profession Summary
 I am a highly resourceful Data Scientist with a strong foundation in data analysis, machine learning, end-to-end model development and cloud technologies. Skilled in transforming raw data into actionable insights that support strategic decision-making. I also excel in FInance Analysis and interpreting financial statements, conducting credit and risk analysis, and communicating complex analytical findings to both technical and finance stakeholders. Committed to delivering accurate, ethical, and high-impact data solutions that drive business growth. Strong team player with excellent collaboration, coordination, and stakeholder-engagement skills, able to work seamlessly across functions to deliver aligned, data-driven results. Currently open to fulltime or part-time roles either remote or on-site where I can apply my analytical mindset to help businesses make smarter, data-driven decisions.
 
+## 🛠 Skills
+
+<details>
+<summary><strong>📊 Data Analysis & Visualization</strong></summary>
+
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Power BI  
+- Excel  
+
+</details>
+
+<details>
+<summary><strong>🤖 Machine Learning & AI Development</strong></summary>
+
+- Scikit-learn  
+- TensorFlow  
+- Keras  
+- Deep Learning  
+- Model Evaluation  
+- Feature Engineering  
+
+</details>
+
+<details>
+<summary><strong>💻 Programming & Development</strong></summary>
+
+- Python  
+- Object-Oriented Programming (OOP)  
+- Git & GitHub  
+- REST APIs  
+
+</details>
+
+<details>
+<summary><strong>🏗 Data Engineering</strong></summary>
+
+- ETL Processes  
+- Data Cleaning  
+- Data Validation  
+- Data Pipeline Development  
+
+</details>
+
+<details>
+<summary><strong>🌐 Data Scraping</strong></summary>
+
+- BeautifulSoup  
+- Selenium  
+- Web Data Extraction  
+
+</details>
+
+<details>
+<summary><strong>☁ Cloud & Big Data</strong></summary>
+
+- Google Cloud (Basics)  
+- BigQuery (Basics)  
+
+</details>
+
+<details>
+<summary><strong>💰 Finance & Risk Analysis</strong></summary>
+
+- Risk Modeling  
+- Insurance Pricing Models  
+- Credit Risk Analysis  
+
+</details>
+
+<details>
+<summary><strong>🗄 Databases & SQL</strong></summary>
+
+- MySQL  
+- PostgreSQL  
+- Advanced SQL Queries  
+- Database Design  
+
+</details>
+
+<details>
+<summary><strong>🧠 Competencies & Transferable Skills</strong></summary>
+
+- Analytical Thinking  
+- Problem Solving  
+- Communication  
+- Stakeholder Reporting  
+- Business Insight Translation  
+
+</details>
 ## Skills                                                                                                
 * **Data Analysis and Visualization**                                                                                                                                                                        
 * **Machine Learning and AI development**
