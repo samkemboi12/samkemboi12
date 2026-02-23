@@ -17,15 +17,15 @@ I am a highly resourceful Data Scientist with a strong foundation in data analys
 <details>
 <summary><h2>Skills</h2> <span style="font-size:12px;">(click to expand)</span></summary>
 
-* Data Analysis and Visualization
-* Machine Learning and AI development
-* Programming and Development
-* Data Engineering
-* Data Scraping
-* Cloud and Big Data
-* Finance and Risk Analysis
-* Databases and SQL
-* Competencies and Transferable Skills
+- Data Analysis and Visualization  
+- Machine Learning and AI development  
+- Programming and Development  
+- Data Engineering  
+- Data Scraping  
+- Cloud and Big Data  
+- Finance and Risk Analysis  
+- Databases and SQL  
+- Competencies and Transferable Skills  
 
 </details>
 
