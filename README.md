@@ -17,30 +17,22 @@ I am a highly resourceful Data Scientist with a strong foundation in data analys
 <details>
 <summary><h2>Skills</h2></summary>
 
-- Data Analysis and Visualization
-- Machine Learning and AI development
-- Programming and Development
-- Data Engineering
-- Data Scraping
-- Cloud and Big Data
-- Finance and Risk Analysis
-- Databases and SQL
-- Competencies and Transferable Skills
+* Data Analysis and Visualization
+* Machine Learning and AI development
+* Programming and Development
+* Data Engineering
+* Data Scraping
+* Cloud and Big Data
+* Finance and Risk Analysis
+* Databases and SQL
+* Competencies and Transferable Skills
 
 </details>
 
-## Skills                                                                                                
-* **Data Analysis and Visualization**                                                                                                                                                                        
-* **Machine Learning and AI development**
-* **Programming and Development**
-* **Data Engineering**
-* **Data Scraping**
-* **Cloud and Big Data**
-* **Finance and Risk Analysis:**
-* **Databases and SQL**
-* **Competencies and Transferable Skills**
+
+<details> 
+  <summary><h2>Tools and Technologies</h2></summary>
   
-## Tools and Technologies
 * **Programming & Scripting:** Python, SQL
 * **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI, Tableau
 * **Machine Learning & AI**: scikit-learn, TensorFlow, Keras, XGBoost, LightGBM
@@ -48,7 +40,7 @@ I am a highly resourceful Data Scientist with a strong foundation in data analys
 * **Cloud & Big Data Tools:** AWS (S3, EC2, Lambda, SageMaker)
 * **Version Control & Collaboration:** Git, GitHub
 * Jupyter Notebooks, VS Code, Docker (if applicable), ETL tools
-
+</details>
 ## Featured Projects
 Below are some but a few projects ;
 ### [Business Sales Analysis with SQL and its DashBoard](https://github.com/samkemboi12/Multi-Branch-Sales-Data-with-MySQL)
