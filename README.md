@@ -41,6 +41,7 @@ I am a highly resourceful Data Scientist with a strong foundation in data analys
 * **Version Control & Collaboration:** Git, GitHub
 * Jupyter Notebooks, VS Code, Docker (if applicable), ETL tools
 </details>
+
 ## Featured Projects
 Below are some but a few projects ;
 ### [Business Sales Analysis with SQL and its DashBoard](https://github.com/samkemboi12/Multi-Branch-Sales-Data-with-MySQL)
