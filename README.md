@@ -15,7 +15,7 @@
 I am a highly resourceful Data Scientist with a strong foundation in data analysis, machine learning, end-to-end model development and cloud technologies. Skilled in transforming raw data into actionable insights that support strategic decision-making. I also excel in FInance Analysis and interpreting financial statements, conducting credit and risk analysis, and communicating complex analytical findings to both technical and finance stakeholders. Committed to delivering accurate, ethical, and high-impact data solutions that drive business growth. Strong team player with excellent collaboration, coordination, and stakeholder-engagement skills, able to work seamlessly across functions to deliver aligned, data-driven results. Currently open to fulltime or part-time roles either remote or on-site where I can apply my analytical mindset to help businesses make smarter, data-driven decisions.
 
 <details>
-<summary><strong>Skills</strong></summary>
+<summary><h2>Skills</h2></summary>
 
 - Data Analysis and Visualization
 - Machine Learning and AI development
