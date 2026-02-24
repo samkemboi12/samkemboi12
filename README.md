@@ -45,7 +45,10 @@ I am a highly resourceful Data Scientist with a strong foundation in data analys
 ## Featured Projects
 Below are some but a few projects ;
 ### [Credit Scoring FInancial Model](https://github.com/samkemboi12/Credit-Scoring-Financial-Model)
-- This is a project that deals with risk management in financial institutions regarding lending to its customers. <br>- It develops a credit scoring system that predicts whether a customer or SMEs will default a loan. <br>- It ensures profitability since banks make informed lending decisions improving profitability and reducing financial losses. The perfomance of the model is highly reliable in financial institutions
+* This is a project that deals with risk management in financial institutions regarding lending to its customers.
+* It develops a credit scoring system that predicts whether a customer or SMEs will default a loan.
+* It ensures profitability since banks make informed lending decisions improving profitability and reducing financial losses.
+* The perfomance of the model is highly reliable in financial institutions
 
 ### [Business Sales Analysis with SQL and its DashBoard](https://github.com/samkemboi12/Multi-Branch-Sales-Data-with-MySQL)
 This project performs a comprehensive analysis of multi-branch retail (12 branches for a Pizza Business) sales data using MySQL to uncover actionable business insights and support data-driven decision-making.
