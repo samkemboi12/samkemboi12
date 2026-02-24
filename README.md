@@ -49,7 +49,7 @@ Below are some but a few projects ;
 * It develops a credit scoring system that predicts whether a customer or SMEs will default a loan.
 * It ensures profitability since banks make informed lending decisions improving profitability and reducing financial losses.
 * The perfomance of the model is highly reliable in financial institutions
-
+  [Demo Video](https://youtu.be/7-XJUUyLGXs)
 
 
 
