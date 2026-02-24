@@ -50,6 +50,10 @@ Below are some but a few projects ;
 * It ensures profitability since banks make informed lending decisions improving profitability and reducing financial losses.
 * The perfomance of the model is highly reliable in financial institutions
 
+
+Uploading Credit Risk Predictor · Streamlit - Google Chrome 2026-02-24 11-37-26.mp4…
+
+
 ### [Business Sales Analysis with SQL and its DashBoard](https://github.com/samkemboi12/Multi-Branch-Sales-Data-with-MySQL)
 This project performs a comprehensive analysis of multi-branch retail (12 branches for a Pizza Business) sales data using MySQL to uncover actionable business insights and support data-driven decision-making.
 ### [AI-Medical ChatBot](https://github.com/samkemboi12/Medical-AI-ChatBot)
