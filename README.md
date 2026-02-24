@@ -60,7 +60,8 @@ Below are some but a few projects ;
 * This project develops an AI-powered chatbot that provides intelligent conversational guidance for patients seeking medical support, covering both emergency and general healthcare queries.
 * It helps users locate the nearest hospitals in real time and provides reliable details about each hospital, including contact information.
 *  Additionally, the chatbot can generate Google Maps directions to guide users directly to the selected hospital.
-*  Check out the **live demo** by clicking the project title above
+*  Check out the **live demo** by clicking here: [Live Demo](https://ai-medical-chatbot-one.vercel.app/chat)
+  
 
 ## [Sales Data Warehouse Analytics](https://github.com/samkemboi12/Sales-Data-Warehouse-Analytics)
 * This project designs and implemented an analytical sales data warehouse that structures sales, customer, and product information into fact and dimension tables to support robust business insights. Using SQL-based modeling
