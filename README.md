@@ -44,6 +44,10 @@ I am a highly resourceful Data Scientist with a strong foundation in data analys
 
 ## Featured Projects
 Below are some but a few projects ;
+### [Business Performance Analytics Project](https://github.com/samkemboi12/Business-Performance-Analytics-Dashboard)
+* This project analyzes business data to identify revenue growth, retention, and product demand opportunities.
+* It builts Power BI dashboards and PowerPoint storytelling assets for executive and stakeholder decision making.
+* Generated strategic recommendations on promotions, customer value optimization, and retention improvement.
 ### [Credit Scoring FInancial Model](https://github.com/samkemboi12/Credit-Scoring-Financial-Model)
 * This is a project that deals with risk management in financial institutions regarding lending to its customers.
 * It develops a credit scoring system that predicts whether a customer or SMEs will default a loan.
@@ -63,7 +67,7 @@ Below are some but a few projects ;
 *  Check out the **live demo** by clicking here: [Live Demo](https://ai-medical-chatbot-one.vercel.app/chat)
   
 
-## [Sales Data Warehouse Analytics](https://github.com/samkemboi12/Sales-Data-Warehouse-Analytics)
+### [Sales Data Warehouse Analytics](https://github.com/samkemboi12/Sales-Data-Warehouse-Analytics)
 * This project designs and implemented an analytical sales data warehouse that structures sales, customer, and product information into fact and dimension tables to support robust business insights. Using SQL-based modeling
 * The project enables analysis of revenue trends, customer behavior, product performance, and operational metrics to support data-driven decision-making and dashboard reporting
 
