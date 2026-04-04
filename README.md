@@ -23,7 +23,8 @@ I am a highly resourceful Data Scientist with a strong foundation in data analys
 - Data Engineering  
 - Data Scraping  
 - Cloud and Big Data  
-- Finance and Risk Analysis  
+- Finance and Risk Analysis
+- SAP ERP
 - Databases and SQL  
 - Competencies and Transferable Skills  
 
