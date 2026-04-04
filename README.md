@@ -48,6 +48,16 @@ Below are some but a few projects ;
 * This project analyzes business data to identify revenue growth, retention, and product demand opportunities.
 * It builts Power BI dashboards and PowerPoint storytelling assets for executive and stakeholder decision making.
 * Generated strategic recommendations on promotions, customer value optimization, and retention improvement.
+
+### [Sales Data Analytics](https://github.com/samkemboi12/Sales-Data-Warehouse-Analytics)
+* This project designs and implemented an analytical sales data warehouse that structures sales, customer, and product information into fact and dimension tables to support robust business insights. Using SQL-based modeling
+* The project enables analysis of revenue trends, customer behavior, product performance, and operational metrics to support data-driven decision-making and dashboard reporting
+
+
+### [Data Warehouse Project](https://github.com/samkemboi12/Data-Warehouse-Project)
+* This project designed and implemented a centralized sales data warehouse integrating fragmented CRM and ERP data into a unified, analytics ready environment using Medallion Architecture.
+* It focused on data ingestion, cleansing, transformation, and quality validation to ensure consistency, accuracy, and reliability, ultimately enabling faster reporting, improved business intelligence, and data-driven decision-making.
+
 ### [Credit Scoring FInancial Model](https://github.com/samkemboi12/Credit-Scoring-Financial-Model)
 * This is a project that deals with risk management in financial institutions regarding lending to its customers.
 * It develops a credit scoring system that predicts whether a customer or SMEs will default a loan.
@@ -56,20 +66,11 @@ Below are some but a few projects ;
 [Test Model in App/Live Demo](https://credit-scoring-financial-model.streamlit.app/)<br>
   [Demo Video](https://youtu.be/7-XJUUyLGXs)
 
-### [Data Warehouse Project](https://github.com/samkemboi12/Data-Warehouse-Project)
-* This project designed and implemented a centralized sales data warehouse integrating fragmented CRM and ERP data into a unified, analytics ready environment using Medallion Architecture.
-* It focused on data ingestion, cleansing, transformation, and quality validation to ensure consistency, accuracy, and reliability, ultimately enabling faster reporting, improved business intelligence, and data-driven decision-making.
-
 ### [AI-Medical ChatBot](https://github.com/samkemboi12/Medical-AI-ChatBot)
 * This project develops an AI-powered chatbot that provides intelligent conversational guidance for patients seeking medical support, covering both emergency and general healthcare queries.
 * It helps users locate the nearest hospitals in real time and provides reliable details about each hospital, including contact information.
 *  Additionally, the chatbot can generate Google Maps directions to guide users directly to the selected hospital.
 *  Check out the **live demo** by clicking here: [Live Demo](https://ai-medical-chatbot-one.vercel.app/chat)
-  
-
-### [Sales Data Warehouse Analytics](https://github.com/samkemboi12/Sales-Data-Warehouse-Analytics)
-* This project designs and implemented an analytical sales data warehouse that structures sales, customer, and product information into fact and dimension tables to support robust business insights. Using SQL-based modeling
-* The project enables analysis of revenue trends, customer behavior, product performance, and operational metrics to support data-driven decision-making and dashboard reporting
 
 ### [Business Sales Analysis](https://github.com/samkemboi12/Multi-Branch-Sales-Data-with-MySQL)
 This project performs a comprehensive analysis of multi-branch retail (12 branches for a Pizza Business) sales data using MySQL to uncover actionable business insights and support data-driven decision-making.
