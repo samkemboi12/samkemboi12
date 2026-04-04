@@ -77,7 +77,7 @@ Below are some but a few projects ;
 This project performs a comprehensive analysis of multi-branch retail (12 branches for a Pizza Business) sales data using MySQL to uncover actionable business insights and support data-driven decision-making.
 
 ###  [Health Insurance Cross-Sell Prediction](https://github.com/samkemboi12/Insurance-Cross-Sell-Prediction)
-This project aims to help TruSecure Insurance Company identify which health insurance customers are likely to also purchase vehicle insurance.<br> The solution involves exploratory data analysis (EDA), feature engineering, and predictive modeling using machine learning..                                                                                                     
+This project aims to help TruSecure Insurance Company identify which health insurance customers are likely to also purchase vehicle insurance.<br> The solution involves exploratory data analysis (EDA), feature engineering, and predictive modeling using machine learning.                                                                                                    
 
 ### [Box Office Movie Success Predictor](https://github.com/samkemboi12/Box-Office-Analysis)
 
